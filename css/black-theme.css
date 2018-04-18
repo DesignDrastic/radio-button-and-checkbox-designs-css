@@ -1,0 +1,11 @@
+:root {
+    --transition: .25s;
+    --clr-blue: #4285F4;
+    --clr-gray: #ccc;
+    --clr-black: #fff;
+    --clr-green: #4baf4b;
+    --grid-border-clr: rgba(255, 255, 255, .1);
+}
+body {
+    background: #1C1C1C;
+}
